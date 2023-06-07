@@ -9,7 +9,7 @@ import {
 
 const appSettings = {
   databaseURL:
-    "https://realtime-database-8a487-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "https://[enter your own firebase database lin]firebasedatabase.app/",
 };
 
 const app = initializeApp(appSettings);
