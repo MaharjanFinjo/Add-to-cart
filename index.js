@@ -9,7 +9,7 @@ import {
 
 const appSettings = {
   databaseURL:
-    "https://[enter your own firebase database lin]firebasedatabase.app/",
+    "https://[enter your own firebase database link]firebasedatabase.app/",
 };
 
 const app = initializeApp(appSettings);
