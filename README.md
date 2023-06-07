@@ -1,21 +1,23 @@
-# co097427c919a8af765b6a9ed
+# Maharja-Add-to-Cart App
+
+link:https://maharaja-shopapp.netlify.app/
 
 Quick start:
 
-```
-$ npm install
-$ npm start
-````
+【English】
+Readme: How to Use the Shopping Cart App
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+1. Enter the desired shopping item in the input field.
+2. Click the "Add" button to add it to the cart.
+3. Check the cart to view the added item.
+4. Remove any unwanted items from the cart.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+【日本語】
+読んでください：ショッピングカートアプリの使い方
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+1. 商品名を入力する欄に欲しい商品を入力します。
+2. 「追加」ボタンをクリックしてカートに追加します。
+3. カートを確認して追加した商品を表示します。
+4. 不要な商品があれば削除します。
 
 Happy Coding!
